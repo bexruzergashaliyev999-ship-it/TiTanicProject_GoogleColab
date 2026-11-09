@@ -3,7 +3,7 @@
 A beginner-friendly machine learning project that predicts whether a passenger survived the Titanic disaster. It walks through a complete workflow in a single Jupyter notebook: loading data, exploring it, cleaning it, training a model and evaluating the result.
 
 The notebook is `TITANIC.ipynb`.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bexruzergashaliyev999-ship-it/TiTanicProject_GoogleColab/blob/main/TITANIC.ipynb)
 ---
 
 ## Highlights
